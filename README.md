@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geekhall&layout=compact&theme=radical)
 
-![Geekhall's GitHub stats](https://github-readme-stats.vercel.app/api?username=geekhall&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=geekhall&show_icons=true&theme=radical)
 
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=geekhall&show_icons=true&theme=radical)
 
