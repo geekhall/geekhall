@@ -21,11 +21,12 @@ Here are some ideas to get you started:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=geekhall&show_icons=true&theme=radical)
 
 ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=geekhall&theme=radical)
-
+<!-- 
+Extend pin projects
 <a href="https://github.com/geekhall/geekhall">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=geekhall&repo=geekhall" />
 </a>
 <a href="https://github.com/geekhall/geekhall">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=geekhall&repo=leetcode" />
 </a>
-
+ -->
