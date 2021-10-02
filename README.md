@@ -22,3 +22,10 @@ Here are some ideas to get you started:
 
 ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=geekhall&theme=radical)
 
+<a href="https://github.com/geekhall/geekhall">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=geekhall&repo=geekhall" />
+</a>
+<a href="https://github.com/geekhall/geekhall">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=geekhall&repo=leetcode" />
+</a>
+
