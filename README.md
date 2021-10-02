@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=geekhall&show_icons=true&theme=radical)
 
-![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=geekhall&show_icons=true&theme=radical)
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=geekhall&theme=radical)
 
