@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 add dynamic profile
 [![Geekhall's GitHub stats](https://github-readme-stats.vercel.app/api?username=geekhall)](https://github.com/anuraghazra/github-readme-stats) 
 -->
+<!-- language： -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geekhall&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
