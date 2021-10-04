@@ -6,8 +6,13 @@
 - 🔭 I’m currently working on a online Course Site [website]
 
 ### Connect with me:
-[<img align="left" alt="geekhall.cn" width="32px" src="https://gitee.com/geekhall/pic/raw/main/img/20211004212437.png" />][blog]
+Site : [<img align="left" alt="geekhall.cn" width="32px" src="https://gitee.com/geekhall/pic/raw/main/img/20211004212437.png" />][website]
+<br/>
+Blog : [<img align="left" alt="geekhall.cn" width="32px" src="https://gitee.com/geekhall/pic/raw/main/img/20211004212437.png" />][blog]
 
+<br/>
+
+### Languages and Tools:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geekhall&layout=compact&theme=radical)
 
@@ -26,3 +31,7 @@ Extend pin projects
 
 [website]: https://geekhall.cn
 [blog]: https://sjdt.gitee.io
+[instagram]: https://www.instagram.com/eric_ginn
+[youtube]: https://www.youtube.com/channel/UC49b6LxiMOF7d4yfxfps9GQ
+[linkedin]: https://www.linkedin.com/in/yang-yin-0901811b3/
+<!-- [webdevplaylist]: youtube playlist  -->
