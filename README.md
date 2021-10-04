@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on a online Course Site [geekhall.cn]
 
 ### Connect with me:
-[<img align="left" alt="geekhall.cn" width="22px" src="https://gitee.com/geekhall/pic/raw/main/img/20211004212437.png" />][geekhall.cn](https://geekhall.cn)
+[<img align="left" alt="geekhall.cn" width="32px" src="https://gitee.com/geekhall/pic/raw/main/img/20211004212437.png" />](https://geekhall.cn)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geekhall&layout=compact&theme=radical)
