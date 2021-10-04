@@ -1,4 +1,4 @@
-### Hi there 👋 , I'm Eric Yin 
+### Hi there 👋 , I'm Yin Yang
 
 - 🌱 I’m currently learning everything :satisfied:
 - 👯 I’m looking to collaborate with other content creators
@@ -20,11 +20,11 @@
 
 ### Languages and Tools:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geekhall&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geekhall&layout=compact&theme=radical&hide_border=true)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=geekhall&show_icons=true&theme=radical&hide_border=true)
 <!-- wakatime not working.. hemmm -->
-![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=geekhall&theme=radical)
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=geekhall&theme=radical&hide_border=true)
 <!-- 
 Extend pin projects
 <a href="https://github.com/geekhall/geekhall">
