@@ -8,6 +8,8 @@
 ### Connect with me:
 
 [<img align="left" alt="geekhall.cn" width="32px" src="https://gitee.com/geekhall/pic/raw/main/img/20211004212437.png" />][blog]
+[<img align="left" alt="linkedin" width="32px" src="https://gitee.com/geekhall/pic/raw/main/img/20211004221554.png" />][linkedin]
+[<img align="left" alt="wechat" width="32px" src="https://gitee.com/geekhall/pic/raw/main/img/20211004222049.png" />][wechat]
 
 <br/>
 <br/>
@@ -34,4 +36,10 @@ Extend pin projects
 [instagram]: https://www.instagram.com/eric_ginn
 [youtube]: https://www.youtube.com/channel/UC49b6LxiMOF7d4yfxfps9GQ
 [linkedin]: https://www.linkedin.com/in/yang-yin-0901811b3/
+[twitter]: https://twitter.com/geek_hall
+[facebook]: facebook.com/yinyang.geekhall
+[weibo]: https://weibo.com/yinyang007
+[zhihu]: https://www.zhihu.com/people/geekhall
+[wechat]: https://gitee.com/geekhall/pic/raw/main/img/20211004221917.png
+
 <!-- [webdevplaylist]: youtube playlist  -->
