@@ -72,7 +72,8 @@
 </details>
 
 ## Wakatime Stats
-<img src="https://wakatime.com/share/@geekhall/911a5d26-1393-4b04-9088-043968754e57.svg" />
+<img align="left" alt="geekhall.cn" width="120px" src="https://wakatime.com/share/@geekhall/911a5d26-1393-4b04-9088-043968754e57.svg" />
+<img align="left" alt="geekhall.cn" width="120px" src="https://wakatime.com/share/@geekhall/5a1ea788-ce42-4dbc-9a3b-a72ac3c8c1fb.svg" />
  
 <!--START_SECTION:waka-->
 ```text
