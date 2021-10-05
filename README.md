@@ -11,9 +11,7 @@
 [<img align="left" alt="geekhall.cn" width="32px" src="https://gitee.com/geekhall/pic/raw/main/img/geekhall_logo_128.png" />][blog]
 [<img align="left" alt="linkedin" width="32px" src="https://gitee.com/geekhall/pic/raw/main/img/linkedin.png" />][linkedin]
 [<img align="left" alt="wechat" width="32px" src="https://gitee.com/geekhall/pic/raw/main/img/wechat.png" />][wechat]
-[<img align="left" alt="instagram" width="32px" src="https://gitee.com/geekhall/pic/raw/main/img/instagram1.png" />][instagram]
-[<img align="left" alt="instagram" width="32px" src="https://gitee.com/geekhall/pic/raw/main/img/instagram-logo.png" />][instagram]
-
+[<img align="left" alt="instagram" width="32px" src="https://gitee.com/geekhall/pic/raw/main/img/110px-Instagram_icon.png" />][instagram]
 
 <br/>
 <br/>
