@@ -26,7 +26,13 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=geekhall&show_icons=true&theme=radical&hide_border=true&count_private=true)
 <!-- wakatime not working.. hemmm -->
 <!--START_SECTION:waka-->
-
+```text
+Go         10 hrs 22 mins  ███████████▒░░░░░░░░░░░░░   45.93 % 
+Other      6 hrs 41 mins   ███████▒░░░░░░░░░░░░░░░░░   29.57 % 
+Markdown   1 hr 55 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
+Python     1 hr 42 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+sh         1 hr 35 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+```
 <!--END_SECTION:waka-->
 ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=geekhall&theme=radical&hide_border=true&count_private=true)
 <!-- 
