@@ -36,6 +36,8 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/Java-1572B6?style=for-the-badge&logo=java&logoColor=white" />
     <img src="https://img.shields.io/badge/Spring-55C7B6?style=for-the-badge&logo=spring&logoColor=white" />
+    <img src="https://img.shields.io/badge/SpringBoot-36CC99?style=for-the-badge&logo=springboot&logoColor=white" />
+    <img src="https://img.shields.io/badge/SpringCloud-66DDCC?style=for-the-badge&logo=springcloud&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-3c4820?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Go-8737B8?style=for-the-badge&logo=go&logoColor=white" />
     <img src="https://img.shields.io/badge/Django-156720?style=for-the-badge&logo=django&logoColor=white" />
@@ -43,7 +45,7 @@
     <img src="https://img.shields.io/badge/C++-96C6F60?style=for-the-badge&logo=c++&logoColor=white" />
     <img src="https://img.shields.io/badge/Docker-33FFCC?style=for-the-badge&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/Typescript-C69C6C?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/SpringBoot-36CC99?style=for-the-badge&logo=springboot&logoColor=white" />
+
 
 ## Languages and Tools:
 
