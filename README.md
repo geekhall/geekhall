@@ -41,6 +41,8 @@
     <img src="https://img.shields.io/badge/Django-156720?style=for-the-badge&logo=django&logoColor=white" />
     <img src="https://img.shields.io/badge/C-34C2F2?style=for-the-badge&logo=c&logoColor=white" />
     <img src="https://img.shields.io/badge/C++-96C6F60?style=for-the-badge&logo=c++&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-33FFCC?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Typescript-C69C6C?style=for-the-badge&logo=typescript&logoColor=white" />
 
 ## Languages and Tools:
 
