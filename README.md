@@ -23,7 +23,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geekhall&layout=compact&theme=radical&hide_border=true)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=geekhall&show_icons=true&theme=radical&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=geekhall&show_icons=true&theme=radical&hide_border=true&count_private=true)
 <!-- wakatime not working.. hemmm -->
 ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=geekhall&theme=radical&hide_border=true)
 <!-- 
