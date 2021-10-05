@@ -43,7 +43,7 @@
     <img src="https://img.shields.io/badge/C++-96C6F60?style=for-the-badge&logo=c++&logoColor=white" />
     <img src="https://img.shields.io/badge/Docker-33FFCC?style=for-the-badge&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/Typescript-C69C6C?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/Node-36CC99?style=for-the-badge&logo=node&logoColor=white" />
+    <img src="https://img.shields.io/badge/NodeJS-36CC99?style=for-the-badge&logo=nodejs&logoColor=white" />
 
 ## Languages and Tools:
 
