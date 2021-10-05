@@ -72,6 +72,8 @@
 </details>
 
 ## Wakatime Stats
+<figure><embed src="https://wakatime.com/share/@geekhall/911a5d26-1393-4b04-9088-043968754e57.svg"></embed></figure>
+ 
 <!--START_SECTION:waka-->
 ```text
 Go         10 hrs 22 mins  ███████████▒░░░░░░░░░░░░░   45.93 % 
