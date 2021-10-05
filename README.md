@@ -1,6 +1,7 @@
-### Hi there 👋 , I'm Yin Yang
+### Hi there 👋 , I'm Eric Yin ✨ 👨‍💻,
 
 - 🌱 I’m currently learning everything :satisfied:
+- 💻 I'm always eager to learn new technologies 
 - 👯 I’m looking to collaborate with other content creators
 - 2021 Goals : Contribute more to Open Source projects
 <!-- - 🔭 I’m currently working on a online Course Site [website] -->
@@ -22,6 +23,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geekhall&layout=compact&theme=radical&hide_border=true&count_private=true)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=geekhall&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![geekhall](https://github-profile-trophy.vercel.app/?username=geekhall&theme=onedark)
+
 
 ### Wakatime weekly
 <!--START_SECTION:waka-->
