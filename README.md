@@ -39,6 +39,8 @@
     <img src="https://img.shields.io/badge/Python-3c4820?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Go-8737B8?style=for-the-badge&logo=go&logoColor=white" />
     <img src="https://img.shields.io/badge/Django-156720?style=for-the-badge&logo=django&logoColor=white" />
+    <img src="https://img.shields.io/badge/C-34C2F2?style=for-the-badge&logo=c&logoColor=white" />
+    <img src="https://img.shields.io/badge/C++-96C6F60?style=for-the-badge&logo=c++&logoColor=white" />
 
 ## Languages and Tools:
 
