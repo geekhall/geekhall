@@ -72,7 +72,7 @@
 </details>
 
 ## Wakatime Stats
-<figure><embed src="https://wakatime.com/share/@geekhall/911a5d26-1393-4b04-9088-043968754e57.svg"></embed></figure>
+<img src="https://wakatime.com/share/@geekhall/911a5d26-1393-4b04-9088-043968754e57.svg" />
  
 <!--START_SECTION:waka-->
 ```text
