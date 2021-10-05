@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-    <img src="https://img.shields.io/badge/Gulp-15c829?style=for-the-badge&logo=gulp&logoColor=white" />
+    <img src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white" />
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
@@ -34,19 +34,24 @@
     <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
     <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Go-8737B8?style=for-the-badge&logo=go&logoColor=white" />
     <img src="https://img.shields.io/badge/Java-1572B6?style=for-the-badge&logo=java&logoColor=white" />
     <img src="https://img.shields.io/badge/Spring-55C7B6?style=for-the-badge&logo=spring&logoColor=white" />
     <img src="https://img.shields.io/badge/SpringBoot-36CC99?style=for-the-badge&logo=springboot&logoColor=white" />
     <img src="https://img.shields.io/badge/SpringCloud-66DDCC?style=for-the-badge&logo=springcloud&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-3c4820?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Go-8737B8?style=for-the-badge&logo=go&logoColor=white" />
-    <img src="https://img.shields.io/badge/Django-156720?style=for-the-badge&logo=django&logoColor=white" />
+    <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
     <img src="https://img.shields.io/badge/C-34C2F2?style=for-the-badge&logo=c&logoColor=white" />
     <img src="https://img.shields.io/badge/C++-96C6F60?style=for-the-badge&logo=c++&logoColor=white" />
     <img src="https://img.shields.io/badge/Docker-33FFCC?style=for-the-badge&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/Typescript-C69C6C?style=for-the-badge&logo=typescript&logoColor=white" />
   	 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
     <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+    <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
+    <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
+    <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white" />
 
 ## Languages and Tools:
 
