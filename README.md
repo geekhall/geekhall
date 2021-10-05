@@ -25,6 +25,9 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=geekhall&show_icons=true&theme=radical&hide_border=true&count_private=true)
 <!-- wakatime not working.. hemmm -->
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=geekhall&theme=radical&hide_border=true&count_private=true)
 <!-- 
 Extend pin projects
