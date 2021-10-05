@@ -45,8 +45,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=geekhall&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![geekhall](https://github-profile-trophy.vercel.app/?username=geekhall&theme=onedark)
-
 
 ## Github Trophies
 > Expand to see my Github trophies 
@@ -55,7 +53,8 @@
     Github Trophies
   </summary>
   <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=geekhall&theme=algolia&column=4">
+<!--     <img src="https://github-profile-trophy.vercel.app/?username=geekhall&theme=algolia&column=4"> -->
+    <img src="https://github-profile-trophy.vercel.app/?username=geekhall&theme=onedark">
   </p>
 </details>
 
