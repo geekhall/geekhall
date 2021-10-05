@@ -12,6 +12,7 @@
 [<img align="left" alt="linkedin" width="32px" src="https://gitee.com/geekhall/pic/raw/main/img/linkedin.png" />][linkedin]
 [<img align="left" alt="wechat" width="32px" src="https://gitee.com/geekhall/pic/raw/main/img/wechat.png" />][wechat]
 [<img align="left" alt="instagram" width="32px" src="https://gitee.com/geekhall/pic/raw/main/img/instagram1.png" />][instagram]
+[<img align="left" alt="instagram" width="32px" src="https://gitee.com/geekhall/pic/raw/main/img/instagram-logo.png" />][instagram]
 
 
 <br/>
