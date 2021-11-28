@@ -78,7 +78,7 @@
 -->
 <!--START_SECTION:waka-->
 ```text
-Vue.js   11 mins         █████████████████████▓░░░   86.39 % 
+
 ```
 <!--END_SECTION:waka-->
 
