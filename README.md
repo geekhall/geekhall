@@ -78,8 +78,7 @@
 -->
 <!--START_SECTION:waka-->
 ```text
-Java       7 mins          █████████████░░░░░░░░░░░░   51.42 % 
-XML        6 mins          ███████████▓░░░░░░░░░░░░░   47.08 % 
+
 ```
 <!--END_SECTION:waka-->
 
