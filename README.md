@@ -77,13 +77,16 @@
 <img align="left" alt="geekhall.cn" width="120px" src="https://wakatime.com/share/@geekhall/5a1ea788-ce42-4dbc-9a3b-a72ac3c8c1fb.svg" />
 -->
 <!--START_SECTION:waka-->
+
 ```text
-Markdown     5 hrs 41 mins   █████████████████▒░░░░░░░   68.70 % 
-Java         56 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-TypeScript   32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-sh           15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-JavaScript   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+Markdown         5 hrs 59 mins   ██████████████████░░░░░░░   72.42 %
+Java             53 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.80 %
+JavaScript       27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 %
+TypeScript       22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
+Vue.js           8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+XML              6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
 ```
+
 <!--END_SECTION:waka-->
 
 <!-- 
