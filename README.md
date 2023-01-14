@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning everything :satisfied:
 - 💻 I'm always eager to learn new technologies 
 - 👯 I’m looking to collaborate with other content creators
-- 2022 Goals : Contribute more to Open Source projects
+- 2023 Goals : Contribute more to Open Source projects
 <!-- - 🔭 I’m currently working on a online Course Site [website] -->
 
 <!-- ### Connect with me: -->
