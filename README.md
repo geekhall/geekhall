@@ -4,9 +4,14 @@
 - 💻 I'm always eager to learn new technologies 
 - 👯 I’m looking to collaborate with other content creators
 - 2023 Goals : Contribute more to Open Source projects
-- 🔭 I’m currently working on a online Course Site  [Bilibili](https://space.bilibili.com/102438649) 、[Youtube](https://www.youtube.com/channel/UCaHGGhmThVehDUapGxl7RVQ)
-[<img align="left" alt="geekhour.net" width="32px" src="https://github.com/geekhall/pic/blob/main/img/geekhall_logo_128.png" />][blog]
+- 🔭 I’m currently working on a online Course Site
+- [<img align="left" alt="geekhour.net" width="32px" src="https://github.com/geekhall/pic/blob/main/img/bilibili-space.jpeg" />][bilibili](https://space.bilibili.com/102438649)
+- [<img align="left" alt="geekhour.net" width="32px" src="https://github.com/geekhall/pic/blob/main/img/geekhall_logo_128.png" />][blog]
+- 
+
 <!-- ### Connect with me: -->
+[<img align="left" alt="geekhour.net" width="32px" src="https://github.com/geekhall/pic/blob/main/img/geekhall_logo_128.png" />][blog]
+[<img align="left" alt="geekhour.net" width="32px" src="https://github.com/geekhall/pic/blob/main/img/geekhall_logo_128.png" />][blog]
 
 <!-- [<img align="left" alt="geekhour.net" width="32px" src="https://github.com/geekhall/pic/blob/main/img/geekhall_logo_128.png" />][blog] -->
 <!-- [<img align="left" alt="wechat" width="32px" src="https://gitee.com/geekhall/pic/raw/main/img/wechat.png" />][wechat] -->
@@ -98,7 +103,7 @@ Extend pin projects
 </a>
  -->
 
-[website]: https://geekhall.cn
+[website]: https://geekhour.net
 [blog]: https://sjdt.gitee.io
 [instagram]: https://www.instagram.com/eric_ginn
 [youtube]: https://www.youtube.com/channel/UC49b6LxiMOF7d4yfxfps9GQ
