@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning everything :satisfied:
 - 💻 I'm always eager to learn new technologies 
 - 👯 I’m looking to collaborate with other content creators
-- 2023 Goals : Contribute more to Open Source projects
 - 🔭 I’m currently working on a online Course Site: [bilibili](https://space.bilibili.com/102438649)、 [Youtube](https://www.youtube.com/channel/UCaHGGhmThVehDUapGxl7RVQ)
 
 <!-- ### Connect with me: -->
