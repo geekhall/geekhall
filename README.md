@@ -79,11 +79,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown       12 hrs 3 mins   ████████████████████░░░░░   79.79 %
-Java           1 hr 55 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.70 %
-XML            1 hr 6 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
-TypeScript     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Markdown   10 hrs 40 mins  █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
