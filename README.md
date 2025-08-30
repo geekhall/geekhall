@@ -79,7 +79,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   12 mins         █████████████████████████   100.00 %
+Markdown   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
