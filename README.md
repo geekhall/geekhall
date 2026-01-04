@@ -1,9 +1,9 @@
 ### Hi there 👋 , I'm Jasper Yang ✨ 👨‍💻,
+大家好，欢迎来到GeekHour
+B站，抖音，Youtube，小红书全网同名
 
-- 🌱 I’m currently learning everything :satisfied:
-- 💻 I'm always eager to learn new technologies 
-- 👯 I’m looking to collaborate with other content creators
-- 🔭 I’m currently working on a online Course Site: [bilibili](https://space.bilibili.com/102438649)、 [Youtube](https://www.youtube.com/channel/UCaHGGhmThVehDUapGxl7RVQ)
+[bilibili](https://space.bilibili.com/102438649)
+[Youtube](https://www.youtube.com/channel/UCaHGGhmThVehDUapGxl7RVQ)
 
 <!-- ### Connect with me: -->
 <!-- [<img align="left" alt="geekhour.net" width="32px" src="https://github.com/geekhall/pic/blob/main/img/WeChat-GeekHour.jpeg" />][wechat] -->
@@ -52,41 +52,6 @@
     <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
     <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white" />
 
-## Languages and Tools:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geekhall&layout=compact&theme=radical&hide_border=true&count_private=true)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=geekhall&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-
-## Github Trophies
-> Expand to see my Github trophies 
-<details>
-  <summary> 
-    Github Trophies
-  </summary>
-  <p>
-<!--     <img src="https://github-profile-trophy.vercel.app/?username=geekhall&theme=algolia&column=4"> -->
-    <img src="https://github-profile-trophy.vercel.app/?username=geekhall&theme=onedark">
-  </p>
-</details>
-
-## Wakatime Stats
-<!-- 
-<img align="left" alt="geekhall.cn" width="120px" src="https://wakatime.com/share/@geekhall/911a5d26-1393-4b04-9088-043968754e57.svg" />
-<img align="left" alt="geekhall.cn" width="120px" src="https://wakatime.com/share/@geekhall/5a1ea788-ce42-4dbc-9a3b-a72ac3c8c1fb.svg" />
--->
-<!--START_SECTION:waka-->
-
-```txt
-Markdown     11 hrs 13 mins  ██████████████████████▒░░   89.22 %
-SQL          37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
-Text         29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
-Other        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
-Python       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-```
-
-<!--END_SECTION:waka-->
 
 <!-- 
 Extend pin projects
